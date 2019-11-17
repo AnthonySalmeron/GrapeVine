@@ -11,7 +11,7 @@
 - Both icons have an event handler that can determine which of the two was clicked, it will send a put command to the server and will include in the body a new number that the score will be reassigned to
 - If the new score is zero, a delete request is instead sent to the server for that comment
 
-#How to run:
+# How to run:
 - clone this repo
 - run npm install
 - run node server.js
