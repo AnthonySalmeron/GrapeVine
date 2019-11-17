@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  width: 50%;
+  margin: 5% auto;
+  padding-bottom: 10px;
+  border: 1px dotted white;
+  color: white;
+  border-radius: 3%;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fisorepublic.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fisorepublic-grapes-dark-1.jpg&f=1&nofb=1);
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+i:hover {
+  font-size: 30px;
+  cursor: pointer;
+}
+.message {
+  list-style-type: none;
+}
+.grand {
+  font-size: 25px;
+  color:white;
+}
+span {
+  color: #b93dff;
+}
